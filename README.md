@@ -1,4 +1,7 @@
-# Backbone.raphael
+# Backbone.raphael-amd
+
+An AMD compatible version of [backbone-raphael](https://github.com/tomasAlabes/backbone.raphael).
+
 ## An easy way to add svg/vml views into your Backbone app
 
 This extension enables you to add views to your backbone apps tweaking how
